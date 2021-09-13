@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @otwig! 
 - 👀 I’m interested in ... improving my web development skills
 - 🌱 I’m currently learning ... elixir, ember, and postgres
-- 💞️ I’m looking to collaborate on ... studying!
 - 📫 How to reach me ... oliviahartwig at gmail dot com
 
 <!---
