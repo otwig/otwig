@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @otwig! 
-- 👀 I’m interested in ... improving my web development skills
-- 🌱 I’m currently learning ... elixir, ember, phoenix and postgres
-- 📫 How to reach me ... oliviahartwig at gmail dot com
+- 👋 Hi, I’m Olivia!
+- 👀 My current side project app makes pottery business inventory and finance tracking easier
+- 🌱 I’m currently solidifying my C# and .NET Fundamentals
 
 <!---
 otwig/otwig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
